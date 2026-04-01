@@ -1,4 +1,5 @@
-# 📱 CuanPulsa - AI Assistant Convert Pulsa
+# PULSA-GO ![gun](https://img.shields.io/badge/gun-ORIGINAL_PROJECT-003366?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=00529b)
+
 
 ![Versi](https://img.shields.io/badge/version-1.0.0-blueviolet)
 ![Status](https://img.shields.io/badge/status-online-success)
