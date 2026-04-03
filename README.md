@@ -13,7 +13,7 @@
 
 * **⚡ Real-time Rate Calculator**: Kalkulator otomatis untuk menghitung estimasi saldo yang diterima berdasarkan rate terbaru (TSEL, XL, ISAT).
 * **🤖 Interactive AI Chat Flow**: Pengalaman pengguna yang interaktif dengan simulasi "Admin sedang mengetik" untuk kesan layanan pelanggan yang personal.
-* **🎁 Integrated Promo System**: Sistem klaim kode promo (seperti bonus New User atau Jumat Berkah) yang langsung terintegrasi ke form transaksi.
+* **🎁 Integrated Promo System**: Sistem klaim kode promo (seperti bonus New User, POIN, VIP dan yang lainnya) yang langsung terintegrasi ke form transaksi.
 * **📱 WhatsApp Integration**: Transmisi data transaksi langsung ke WhatsApp admin untuk pemrosesan instan.
 * **🎨 UI Modern & Futuristik**: Menggunakan *Glassmorphism design*, animasi *smooth*, dan font *Plus Jakarta Sans* yang elegan.
 
@@ -76,3 +76,9 @@ Ingin menambahkan fitur baru?
 5. Buat Pull Request.
 
 **CuanPulsa - Ubah Pulsamu Jadi Cuan!** 💰
+
+<div align="center">
+  <a href="https://wa.me/6282121218466?text=saya%20mau%20beli%20lisensi%2C%20mohon%20konfirmasi">
+    <img src="logo.svg" width="300" alt="Gun Original Project Logo">
+  </a>
+</div>
